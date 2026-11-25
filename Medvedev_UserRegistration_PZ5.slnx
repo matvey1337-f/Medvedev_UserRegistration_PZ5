@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="Medvedev_UserRegistration_PZ5/Medvedev_UserRegistration_PZ5.csproj" Id="1425ada7-302c-49a3-8bd1-48bfdd64d405" />
+  <Project Path="PasswordHasherLib/PasswordHasherLib.csproj" Id="5cb1bc9c-e12a-4054-9c7a-46cdbdec9c56" />
+</Solution>
